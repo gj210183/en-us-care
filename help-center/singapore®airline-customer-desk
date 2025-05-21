@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Singapore® Airlines Customer Desk | +1-888-829-1117</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+      background-color: #f7f9fb;
+      color: #333;
+    }
+    h1, h2 {
+      color: #004282;
+    }
+    .section {
+      background-color: #fff;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+    a {
+      color: #004282;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Singapore® Airlines Customer Desk | +1-888-829-1117</h1>
+
+  <div class="section">
+    <p>To speak with a live representative at Singapore Airlines, call their 24/7 customer service hotline at <strong>+1-888-829-1117</strong> or 1-800-SINGAPORE-AIRLINE. You can also use live chat, email, or their website for assistance.</p>
+    <p>This guide outlines all the contact methods and the best times to reach
